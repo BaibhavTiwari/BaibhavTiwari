@@ -1,18 +1,17 @@
 <!-- About Me -->
-## About👦🏻
->As a 3rd-year CS undergrad, I have experience in frontend dev and keen to delve into Web3 and full-stack web dev.
+## Hello There👋🏻
+As a 3rd-year CS undergrad, I have experience in frontend dev and keen to delve into Web3 and full-stack web dev.
 I'm enthusiastic about exploring blockchain, decentralized apps, and Learning Full Stack dev for secure,
 scalable web apps that offer a smooth user experience.
->
->Currently Learning more about:
+
+Currently Learning more about:
 <code>Javascript & Node</code>
->
-## Tech Stack🤖
+## Tech Stack⚒️
 >
 >[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 >[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,postman,gcp&theme=dark)](https://skillicons.dev)
 >
-## Contact📞
+## Socials📶
 >[![Twitter Shield](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&colorB=555)](https://twitter.com/@BaibhavTiwari11)
 >[![GitHub Shield](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&colorB=555)](https://github.com/BaibhavTiwari)
 >[![LinkedIn Shield](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&colorB=0077B5)](https://www.linkedin.com/in/baibhavtiwari)
