@@ -1,10 +1,10 @@
 <!-- About Me -->
 ## About👦🏻
-As a 3rd-year CS undergrad, I have expertise in frontend dev and keen to delve into Web3 and full-stack web dev.<br>
-I'm enthusiastic about exploring blockchain tech, decentralized apps, and mastering Full Stack dev for secure,<br>
+As a 3rd-year CS undergrad, I have expertise in frontend dev and keen to delve into Web3 and full-stack web dev.
+I'm enthusiastic about exploring blockchain tech, decentralized apps, and mastering Full Stack dev for secure,
 scalable web apps that offer a smooth user experience.
->Currently working on:<br>
-[![MedBlock](https://img.shields.io/badge/MedBlock-white)](https://github.com/BaibhavTiwari/MedBlock) 
+>Currently Learning more about:
+<code>Javascript & React</code>
 
 <!-- Tech Stack -->
 ## Tech Stack🤖
