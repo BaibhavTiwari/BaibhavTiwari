@@ -6,6 +6,9 @@ scalable web apps that offer a smooth user experience.
 
 Currently Learning more about:
 <code>Javascript & Node</code>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649c6693d99c9d67319d8d23?variant=dark)](https://roadmap.sh)
+
 ## Tech Stack⚒️
 >
 >[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind&theme=dark)](https://skillicons.dev)
