@@ -2,12 +2,10 @@
 ## Hello There👋🏻
 As a 3rd-year CS undergrad, I have experience in frontend dev and keen to delve into Web3 and full-stack web dev.
 I'm enthusiastic about exploring blockchain, decentralized apps, and Learning Full Stack dev for secure,
-scalable web apps that offer a smooth user experience.
+scalable web apps.
 
 Currently Learning more about:
 <code>Javascript & Node</code>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649c6693d99c9d67319d8d23?variant=dark)](https://roadmap.sh)
 
 ## Tech Stack⚒️
 >
