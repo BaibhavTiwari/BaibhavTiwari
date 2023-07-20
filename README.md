@@ -1,6 +1,6 @@
 <!-- About Me -->
 ## Hello There👋🏻
-As a 3rd-year CS undergrad, I have experience in frontend dev and keen to delve into Web3 and full-stack web dev.
+As a 4th-year CS undergrad, I have experience in frontend dev and keen to delve into Web3 and full-stack web dev.
 I'm enthusiastic about exploring blockchain, decentralized apps, and Learning Full Stack dev for secure,
 scalable web apps.
 
